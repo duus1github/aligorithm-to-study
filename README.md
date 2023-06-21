@@ -1,1 +1,2 @@
-I want to fand a good job，so have to study the algorithm.then i find the book <Introduction to algorithms Third edition> and leecode aligorithms questions to study that.
+    现在是研二下学期了，为了找实习以及准备即将到来的秋招，我开始刷题。其实之前也有一刷题的，但是没有什么具体的思路，现在是特地了解了一下leecode的刷题，所以开始了自己新的刷题之路。
+    我现在的思路是，以《算法导论》第三版为参考，先学习其中每一个章节的知识点，然后再去leecode找对应的题目来刷。大概就是这么一个思路。
